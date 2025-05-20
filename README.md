@@ -2,7 +2,7 @@ English | हिन्दी | 日本語
 
 ---
 
-## Support My Learning
+## Support Me
 
 If any of my beginner projects have helped or inspired you, feel free to support or give feedback! Every little bit of encouragement keeps me motivated to learn and grow as a developer.
 
@@ -10,7 +10,7 @@ If any of my beginner projects have helped or inspired you, feel free to support
 
 ## About Me
 
-👋 Hi, I'm [Your Name], a self-taught beginner developer currently learning web development.  
+👋 Hi, I'm Mayur, a self-taught beginner developer currently learning web development.  
 💻 I enjoy building small web projects and tools while learning HTML, CSS, JavaScript, and Python.  
 🌐 I speak Hindi, English, and Japanese.  
 🎯 My goal is to become a full-stack developer one day!
